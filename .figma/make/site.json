@@ -1,0 +1,11 @@
+{
+  "description": "Helps employees preserve and share lessons learned through short audio, video, and case stories, with Q&A that turns veteran expertise into lasting company knowledge.",
+  "language": "SP",
+  "robots": {
+    "index": false
+  },
+  "accessibility": {
+    "addBypassLinks": false,
+    "ignoreReducedMotion": false
+  }
+}
